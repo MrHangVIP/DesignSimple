@@ -31,26 +31,28 @@
         app:headerLayout="@layout/nav_header_main"
         app:menu="@menu/activity_main_drawer" />
 
-    <com.szh.designsimple.ScrollerLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="100dp"
-            android:text="button"/>
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="100dp"
-            android:text="button"/>
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="100dp"
-            android:text="button"/>
 
 
-        </com.szh.designsimple.ScrollerLayout>
+    <!--<com.szh.designsimple.ScrollerLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" >-->
+
+        <!--<Button-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="100dp"-->
+            <!--android:text="button"/>-->
+
+        <!--<Button-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="100dp"-->
+            <!--android:text="button"/>-->
+
+        <!--<Button-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="100dp"-->
+            <!--android:text="button"/>-->
+
+
+        <!--</com.szh.designsimple.ScrollerLayout>-->
 
 </android.support.v4.widget.DrawerLayout>
